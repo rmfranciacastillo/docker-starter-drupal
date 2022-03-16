@@ -50,3 +50,4 @@
 
 # Editor
 tags
+/vendor/*
